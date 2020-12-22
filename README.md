@@ -14,3 +14,15 @@ This github page describes the various associated projects providing its
 overview along with a brief description. Detailed descriptions on the projects
 are available as part of the project specific github pages.
 </p>
+
+## Projects
+
+### Sparse Datasets
+
+<p align="justify">
+The <a href="https://github.com/SIAALabs/sparse-dataset">sparse-dataset</a> 
+github repository contains multiple shell scripts to retrive sparse matrix 
+datasets from various locations. The retrieved sparse matrix datasets are 
+represented in matrix-market format. We can use these datasets to perform 
+analysis of our optimized sparse kernels.
+</p>
